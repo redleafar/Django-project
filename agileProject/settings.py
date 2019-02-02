@@ -83,7 +83,7 @@ DATABASES = {
         'NAME': 'dbgallery',
         'USER': 'usdbgallery',
         'PASSWORD': 'Abcd123#',
-        'HOST': 'localhost'
+        'HOST': 'calm-cove-96991.herokuapp.com'
     }
 }
 
