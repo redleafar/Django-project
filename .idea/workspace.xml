@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="777f791e-052e-458d-9b8e-e02a87bab6a2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agileProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/agileProject/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="777f791e-052e-458d-9b8e-e02a87bab6a2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,12 +227,12 @@
       <updated>1549019324178</updated>
       <workItem from="1549019325484" duration="2376000" />
       <workItem from="1549042792758" duration="1871000" />
-      <workItem from="1549122914661" duration="6462000" />
+      <workItem from="1549122914661" duration="7015000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10709000" />
+    <option name="totallyTimeSpent" value="11262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="726" extended-state="0" />
