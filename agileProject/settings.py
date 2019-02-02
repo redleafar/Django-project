@@ -83,8 +83,7 @@ DATABASES = {
         'NAME': 'dbgallery',
         'USER': 'usdbgallery',
         'PASSWORD': 'Abcd123#',
-        'HOST': 'localhost',
-        'PORT': '5432',
+        'HOST': 'localhost'
     }
 }
 
