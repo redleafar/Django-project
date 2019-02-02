@@ -26,7 +26,7 @@ STATIC_ROOT = os.path.join(PROJECT_DIR, 'static')
 SECRET_KEY = 'utq=ljrrdero3bvx(j-_h*lu_zqozkteb8tx-j9$_y1+@s-v1w'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ["0.0.0.0", "calm-cove-96991.herokuapp.com", "localhost"]
 
