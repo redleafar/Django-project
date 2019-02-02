@@ -80,10 +80,11 @@ WSGI_APPLICATION = 'agileProject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'dbgallery',
-        'USER': 'usdbgallery',
-        'PASSWORD': 'Abcd123#',
-        'HOST': 'calm-cove-96991.herokuapp.com'
+        'NAME': 'd74s6pobbn0182',
+        'USER': 'fnogccnciszzlm',
+        'PASSWORD': '72f71eb67fd183415d9103d040e6f371e0562bc7cfd02189f9ff6b6f0da7f9e7',
+        'HOST': 'ec2-23-21-244-254.compute-1.amazonaws.com',
+        'PORT': '5432'
     }
 }
 
