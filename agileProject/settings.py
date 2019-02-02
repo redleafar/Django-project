@@ -28,7 +28,7 @@ SECRET_KEY = 'utq=ljrrdero3bvx(j-_h*lu_zqozkteb8tx-j9$_y1+@s-v1w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["0.0.0.0", "calm-cove-96991.herokuapp.com"]
+ALLOWED_HOSTS = ["0.0.0.0", "calm-cove-96991.herokuapp.com", "localhost"]
 
 
 # Application definition
@@ -83,7 +83,7 @@ DATABASES = {
         'NAME': 'dbgallery',
         'USER': 'usdbgallery',
         'PASSWORD': 'Abcd123#',
-        'HOST': 'calm-cove-96991.herokuapp.com'
+        'HOST': 'localhost'
     }
 }
 

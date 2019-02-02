@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="777f791e-052e-458d-9b8e-e02a87bab6a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/agileProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/agileProject/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/agileProject/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            <state relative-caret-position="15">
+              <caret line="30" column="71" selection-start-line="30" selection-start-column="71" selection-end-line="30" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -37,6 +38,7 @@
     <findStrings>
       <find>allowe</find>
       <find>app.r</find>
+      <find>DEBU</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -171,12 +173,12 @@
       <updated>1549019324178</updated>
       <workItem from="1549019325484" duration="2376000" />
       <workItem from="1549042792758" duration="1871000" />
-      <workItem from="1549122914661" duration="8747000" />
+      <workItem from="1549122914661" duration="9037000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12994000" />
+    <option name="totallyTimeSpent" value="13284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="726" extended-state="0" />
@@ -298,8 +300,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/agileProject/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        <state relative-caret-position="15">
+          <caret line="30" column="71" selection-start-line="30" selection-start-column="71" selection-end-line="30" selection-end-column="71" />
         </state>
       </provider>
     </entry>
