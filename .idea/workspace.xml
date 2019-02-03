@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="777f791e-052e-458d-9b8e-e02a87bab6a2" name="Default Changelist" comment="" />
+    <list default="true" id="777f791e-052e-458d-9b8e-e02a87bab6a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/agileProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/agileProject/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/agileProject/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1048">
-              <caret line="40" column="27" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="27" />
+            <state relative-caret-position="30">
+              <caret line="46" selection-start-line="46" selection-end-line="46" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -72,9 +74,9 @@
         <option value="$PROJECT_DIR$/gallery/urls.py" />
         <option value="$PROJECT_DIR$/gallery/views.py" />
         <option value="$PROJECT_DIR$/gallery/templates/gallery/index.html" />
-        <option value="$PROJECT_DIR$/agileProject/settings.py" />
         <option value="$PROJECT_DIR$/agileProject/urls.py" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/agileProject/settings.py" />
       </list>
     </option>
   </component>
@@ -194,12 +196,12 @@
       <updated>1549019324178</updated>
       <workItem from="1549019325484" duration="2376000" />
       <workItem from="1549042792758" duration="1871000" />
-      <workItem from="1549122914661" duration="11640000" />
+      <workItem from="1549122914661" duration="11693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15887000" />
+    <option name="totallyTimeSpent" value="15940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="726" extended-state="0" />
@@ -236,7 +238,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/agileProject/settings.py</url>
-          <line>78</line>
+          <line>79</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
@@ -328,8 +330,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/agileProject/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1048">
-          <caret line="40" column="27" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="27" />
+        <state relative-caret-position="30">
+          <caret line="46" selection-start-line="46" selection-end-line="46" selection-end-column="49" />
         </state>
       </provider>
     </entry>
