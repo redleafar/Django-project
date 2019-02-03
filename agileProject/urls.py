@@ -19,5 +19,5 @@ from django.urls import include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('gallery/', include('gallery.urls')),
+    path('gallery/', include('gallery.urls', namespace="images")),
 ]
