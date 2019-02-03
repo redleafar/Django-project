@@ -127,4 +127,4 @@ USE_TZ = True
 
 STATIC_URL = '/images/'
 STATIC_ROOT = 'staticfiles'
-STATICFILES = os.path.join(BASE_DIR, 'images')
+STATICFILES_DIRS = os.path.join(BASE_DIR, 'images')
